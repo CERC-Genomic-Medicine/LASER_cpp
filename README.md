@@ -18,7 +18,7 @@ Follow these steps to complete installation:
 
 - Clone repository.
 ```sh
-git clone https://github.com/statgen/LASER
+git clone https://github.com/CERC-Genomic-Medicine/LASER_cpp.git
 cd LASER
 ```
 
